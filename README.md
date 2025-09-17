@@ -24,4 +24,4 @@ Power BI Desktop – For building the dashboard.
 Excel – For sales and order data.
 
 ### Dashboard Preview  
-![BlinkIt Dashboard](dashboard_preview.png)
+Dashboard Preview.png → Sample Dashboard
