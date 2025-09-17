@@ -8,24 +8,20 @@ This repository contains a Power BI dashboard created using BlinkIt sales and or
 ### File Included
 
 BlinkIt Dashboard.pbix → Power BI file containing the interactive dashboard.
+BlinkIt.xlsx → Data set
 
 ### Features of the Dashboard
 
 Sales Overview – Yearly and Monthly sales trends.
-
 Customer Insights – Orders by customers, repeat buyers.
-
 Product Analysis – Top-selling and least-selling items.
-
 Order Trends – Orders by time slots and days of the week.
-
 Revenue Insights – Total revenue, average order value, and more.
 
 ### Tools Used
 
 Power BI Desktop – For building the dashboard.
-
-Excel / CSV data sources – For sales and order data.
+Excel – For sales and order data.
 
 ### Dashboard Preview  
 ![BlinkIt Dashboard](dashboard_preview.png)
